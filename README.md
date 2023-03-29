@@ -1,4 +1,4 @@
-# spa
+# Todo List
 
 ## Project setup
 ```
